@@ -43,7 +43,7 @@
         "sweetalert2": "^7.29.2",
         "v-money": "^0.8.1",
         "vee-validate": "^2.2.15",
-        "vue": "^2.6.10",
+        "vue": "^3.0.0",
         "vue-chartjs": "^3.4.0",
         "vue-clipboard2": "^0.3.1",
         "vue-flatpickr-component": "^8.1.3",
